@@ -1,7 +1,7 @@
 # Kwintesencja
 
 <p align="center">
-  <img src="https://github.com/iamalbedo1/kwintesencja/blob/main/Icon-1024.png?raw=true" alt="Ikona Kwintesencja" width="150"/>
+  <img src="https://github.com/iamalbedo1/kwintesencja/blob/main/Icon-512.png?raw=true" alt="Ikona Kwintesencja" width="150"/>
 </p>
 
 Oficjalna, darmowa aplikacja mobilna do czytania pisma literackiego "Kwintesencja". Przeglądaj najnowsze i archiwalne numery w nowoczesnym i wygodnym interfejsie.
